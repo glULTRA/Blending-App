@@ -1,3 +1,3 @@
 # Blending-App
 
-Double click on hello.exe.
+After downloading double click on hello.exe.
